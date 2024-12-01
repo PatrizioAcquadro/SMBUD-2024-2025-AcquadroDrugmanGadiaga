@@ -6,7 +6,7 @@
 - **David Gadiaga**
 
 ## Project Description
-This project focuses on utilizing MongoDB and Elasticsearch to analyze two datasets, each containing at least 20,000 data points. We aim to perform complex queries and analyses to explore the potential of these non-relational database technologies.
+This project focuses on utilizing MongoDB and Elasticsearch to analyze two datasets, each containing at least 20,000 data points. We aim to perform simple, intermediate and complex queries and analyses to explore the potential of these non-relational database technologies.
 
 ## Database and Datasets
 - **Database 1**: MongoDB
