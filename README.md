@@ -144,19 +144,12 @@ GET /anime/_search
 
 ---
 
-## How to Extend
-- **Docker Compose** for MongoDB + Elasticsearch + Kibana in one command.
-- **Dashboards** (Kibana/Streamlit) for non‑technical users.
-- **Alerts** (open‑now near me, new high‑score season alerts).
-- **RAG** over business descriptions/synopses with code‑aware embeddings.
-
----
-
 ## Authors & Roles
 **Patrizio Acquadro, Tito Nicola Drugman, David Gadiaga**
 MSc Computer Science - Artificial Intelligence (T2i)
 Milan, Politecnico di Milano
+
 ---
 
 ## License
-Course deliverable — All rights reserved (update if you decide to open‑source).
+Course deliverable — All rights reserved.
