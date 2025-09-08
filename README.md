@@ -1,8 +1,4 @@
 # SMBUD — MongoDB & Elasticsearch Analytics
-
-## About
-Analytics on big unstructured data: MongoDB on Yelp (150k+) and Elasticsearch on anime (24.9k). Reproducible, query-driven insights.
-
 ## Overview
 Two focused analytics tracks on unstructured data:
 
